@@ -1,0 +1,6 @@
+##LINUX -- BASICS
+
+Commands:
+1.pwd - How to check the current location?(present working directory)
+2.whoami - displays the name of current logged-in user
+3.date or date +%D - to check the system date or time
