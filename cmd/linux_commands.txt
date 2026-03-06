@@ -1,0 +1,4 @@
+ls - list files
+pwd - show current directory
+greo - search text
+find - search files
