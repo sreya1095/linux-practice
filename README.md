@@ -80,8 +80,6 @@ Linux knowledge is essential for:
 
 \- DevOps Engineers
 
-\- Cloud Engineers
-
 \- Backend Developers
 
 
